@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DoodleDrawPOC-1.0";
 const contentToCache = [
     "Build/DoodleDrawPOCWeb.loader.js",
-    "Build/DoodleDrawPOCWeb.framework.js",
-    "Build/DoodleDrawPOCWeb.data",
-    "Build/DoodleDrawPOCWeb.wasm",
+    "Build/DoodleDrawPOCWeb.framework.js.unityweb",
+    "Build/DoodleDrawPOCWeb.data.unityweb",
+    "Build/DoodleDrawPOCWeb.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

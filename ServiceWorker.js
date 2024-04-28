@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-DoodleDrawPOC-1.5";
+const cacheName = "DefaultCompany-DoodleDrawPOC-1.6";
 const contentToCache = [
     "Build/DoodleDrawPOCWeb.loader.js",
     "Build/DoodleDrawPOCWeb.framework.js.unityweb",
